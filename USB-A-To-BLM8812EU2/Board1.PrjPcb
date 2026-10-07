@@ -1,0 +1,11 @@
+[Design]
+Version=1.0
+AutoSheetNumbering=1
+
+[Document1]
+DocumentPath=Board1\Schematic1\P1.schdoc
+UniqueId=84F9D18A-088A-41D0-B3BC-96E192EC5815
+
+[Document2]
+DocumentPath=Board1\PCB1.pcbdoc
+UniqueId=B2BC68E9-5E2C-4698-B3B2-BCFD48005EDF
